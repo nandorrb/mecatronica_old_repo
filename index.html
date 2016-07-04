@@ -23,7 +23,18 @@
   ga('send', 'pageview');
 
 </script>
-
+<script>
+(function() {
+var secs = 0;
+    var id = setInterval(function(){ 
+        secs++; console.log(secs);
+      if(secs> 5){
+        clearInterval(id);
+        alert('Total Time: ' + secs + ' seconds');
+       }
+    }, 1000);
+};)
+</script>
 	</head>
 	
 
@@ -69,17 +80,7 @@
 							<h2>MECATRONICA.PE</h2>
 							
 							<p>Una empresa Peruana de desarrollo de proyectos</p>
-						$(document).ready(function(){
-var secs = 0;
-var id = setInterval(function(){ 
-    secs++; console.log(secs);
-  if(secs> 5){
-    clearInterval(id);
-    alert('Total Time: ' + secs + ' seconds');
-    secs = 0;
-   }
-}, 1000);
-});
+					
 						</div>
 						
 						
