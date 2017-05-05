@@ -11,11 +11,11 @@ collections:
 email: your-email@domain.com
 url: "/proyectos"
 baseurl: "/proyectos"
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-skills: Web Developer - Graphic Artist - User Experience Designer
-meta_author: LastName FirstName
+description: Desarrollamos prototipos MVP para StartUps y empresarios desde la etapa
+  de diseño y manufactura hasta la etapa de masificacion del producto. Tambien brindamos
+  servicios de consultoria en ingeniería, y desarrollo de proyectos en general.
+skills: Proyectos de Ingenieria - Desarrollo de Prototipos - Generacion de StartUps
+meta_author: Fernando Rubio
 google_verify: 
 bing_verify: 
 contact: static
@@ -26,15 +26,15 @@ color:
   secondary: 2c3e50
   secondary-dark: 233140
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Mecatronica del Peru
+  location: Lima - Peru
   social: Around the Web
   credits: Credits
 social:
 - title: twitter
   url: http://twitter.com/jekyllrb
 - title: facebook
-  url: 
+  url: https://www.facebook.com/ingenieriamecatronicaperu/
 - title: stack-overflow
   url: http://stackoverflow.com/questions/tagged/jekyll
 - title: bitbucket
@@ -44,8 +44,8 @@ social:
 address:
 - line: 3481 Melrose Place
 - line: Beverly Hills, CA 90210
-credits: Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start
-  Bootstrap</a>.
+credits: WebPage made using Freelancer, a free to use, open source Bootstrap theme
+  created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
 markdown: kramdown
 permalink: pretty
 Field name: 
