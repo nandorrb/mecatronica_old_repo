@@ -1,13 +1,13 @@
 ---
 title: Project 1
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+date: 2014-07-17 00:00:00 Z
 categories:
 - Web Development
 layout: default
 modal-id: 1
 img: prototipos.jpg
 alt: image-alt
-project-date: "`r format(Sys.time(), '%d %B, %Y')`"
+project-date: April 2014
 client: Start Bootstrap
 description: 
   Desarrollamos prototipos de productos innovadores, con lo último en tecnología. Para que tu solo te encargues de venderlo.
