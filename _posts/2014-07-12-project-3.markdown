@@ -9,6 +9,7 @@ img: automatizacion.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-description: Empresas tradicionales
+description:  En el perú la gran mayoria de empresas son casi artesanales, pues carecen de la alta tecnología que caracteriza a los paises industrializados, al automatizar una empresa se aumenta su producción, se reducen costos y se mejora la calidad del producto. Nuestra meta es hacer productos escalables que hagan simple el aumentar la producción de la empresa.
+  Ofrecemos soluciones innovadoras, baratas y robustas. Perfectas para su uso industrial. Maquinas que trabajan a 220V, 380V o 440V para su facil acomplamiento a redes industriales, envío de información a la red, para un monitoreo online, interfaz gráfica Android. Y otras funcionalidades que el cliente considere necesario.
 ---
 
