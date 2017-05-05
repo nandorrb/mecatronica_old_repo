@@ -1,5 +1,5 @@
 ---
-title: Desarrollo de Prototipos
+title: Project 2
 date: 2014-07-17 00:00:00 Z
 categories:
 - Web Development
