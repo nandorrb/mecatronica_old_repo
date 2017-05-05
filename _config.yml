@@ -11,15 +11,13 @@ collections:
 email: your-email@domain.com
 url: https://nandorrb.github.io/proyectos
 baseurl: "/proyectos"
-
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
 skills: Web Developer - Graphic Artist - User Experience Designer
-
 meta_author: LastName FirstName
-google_verify:
-bing_verify:
+google_verify: 
+bing_verify: 
 contact: static
 disqus_shortname: myshortname
 color:
@@ -36,7 +34,7 @@ social:
 - title: twitter
   url: http://twitter.com/jekyllrb
 - title: facebook
-  url:
+  url: 
 - title: stack-overflow
   url: http://stackoverflow.com/questions/tagged/jekyll
 - title: bitbucket
