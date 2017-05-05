@@ -5,7 +5,7 @@ categories:
 - Web Development
 layout: default
 modal-id: 1
-img: automatizacion.jpg
+img: linea_de_produccion.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
