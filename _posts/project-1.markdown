@@ -1,11 +1,11 @@
 ---
-title: Project 2
+title: Project 1
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 categories:
 - Web Development
 layout: default
 modal-id: 1
-img: cabin.png
+img: prototipos.jpg
 alt: image-alt
 project-date: "`r format(Sys.time(), '%d %B, %Y')`"
 client: Start Bootstrap
