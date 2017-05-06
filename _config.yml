@@ -31,21 +31,17 @@ footer:
   social: Redes Sociales
   credits: Credits
 social:
-- title: twitter
-  url: http://twitter.com/jekyllrb
 - title: facebook
   url: https://www.facebook.com/ingenieriamecatronicaperu/
-- title: stack-overflow
-  url: http://stackoverflow.com/questions/tagged/jekyll
 - title: bitbucket
-  url: http://bitbucket.org/jekyll
+  url: http://bitbucket.org/nandorrb
 - title: github
-  url: http://github.com/jekyll
+  url: http://github.com/nandorrb
 address:
-- line: Calle Ciudad Real 186
+- line: 964484111
+- line: Jiron Ciudad Real
 - line: Santiago de Surco - Lima
 credits: WebPage made using Freelancer, a free to use, open source Bootstrap theme
   created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
 markdown: kramdown
 permalink: pretty
-Field name: 
