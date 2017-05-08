@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: your-email@domain.com
+email: nando.rrb.00@gmail.com
 url: "/proyectos"
 baseurl: "/proyectos"
 description: Desarrollamos prototipos MVP para StartUps y empresarios desde la etapa
